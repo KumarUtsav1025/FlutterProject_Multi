@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1073342724168",
+    "project_id": "multil",
+    "storage_bucket": "multil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073342724168:android:6708f9816d212523f2407d",
+        "android_client_info": {
+          "package_name": "com.example.multil.multil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073342724168-rm1jhpdbbv2bt2hmcv343115jiro3u1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multil.multil",
+            "certificate_hash": "b5631b314c9714a8195d1723753695b91c6cf073"
+          }
+        },
+        {
+          "client_id": "1073342724168-ahapgo2m9fhq4rr7ki0ps79bgft86bj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMtvFaduBB7O6dOyTcxiVD0LQ8CtNwJB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073342724168-ahapgo2m9fhq4rr7ki0ps79bgft86bj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
